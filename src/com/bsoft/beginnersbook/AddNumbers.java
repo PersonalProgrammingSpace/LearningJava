@@ -9,8 +9,8 @@ public class AddNumbers {
         /*  Sum of two numbers using Scanner */
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the first number: ");
 
+        System.out.print("Enter the first number: ");
         int num1, num2, sum;
         num1 = sc.nextInt();
 
