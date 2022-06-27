@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.objects;
+package com.bsoft.beginnersbook.oopsConcepts.objects;
 
 
 //Example 1

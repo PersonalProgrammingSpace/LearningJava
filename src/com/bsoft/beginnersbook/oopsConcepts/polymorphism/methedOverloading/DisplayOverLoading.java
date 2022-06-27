@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.polymorphism.methedOverloading;
+package com.bsoft.beginnersbook.oopsConcepts.polymorphism.methedOverloading;
 
 public class DisplayOverLoading {
 

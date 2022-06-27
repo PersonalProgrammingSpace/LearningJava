@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.abstractClass;
+package com.bsoft.beginnersbook.oopsConcepts.abstractClass;
 
 //Abstract Class
 //An abstract class outlines the methods but not necessarily implements all the methods

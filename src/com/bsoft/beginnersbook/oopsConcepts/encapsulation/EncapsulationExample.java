@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.encapsulation;
+package com.bsoft.beginnersbook.oopsConcepts.encapsulation;
 
 public class EncapsulationExample {
 

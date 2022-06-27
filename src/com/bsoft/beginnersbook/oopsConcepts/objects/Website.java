@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.objects;
+package com.bsoft.beginnersbook.oopsConcepts.objects;
 
 public class Website{
     //fields or instance variables

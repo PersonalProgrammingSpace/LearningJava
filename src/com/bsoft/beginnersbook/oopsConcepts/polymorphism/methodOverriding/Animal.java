@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.polymorphism.methodOverriding;
+package com.bsoft.beginnersbook.oopsConcepts.polymorphism.methodOverriding;
 
 public class Animal {
 

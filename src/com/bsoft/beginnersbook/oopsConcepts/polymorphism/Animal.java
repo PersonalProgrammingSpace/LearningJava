@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.polymorphism;
+package com.bsoft.beginnersbook.oopsConcepts.polymorphism;
 
 /*
 Polymorphism is a object oriented programming feature that allows us to perform a single action in different ways.

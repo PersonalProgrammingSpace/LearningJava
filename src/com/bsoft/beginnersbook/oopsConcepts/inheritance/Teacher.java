@@ -1,4 +1,4 @@
-package com.bsoft.beginnersbook.oop.inheritance;
+package com.bsoft.beginnersbook.oopsConcepts.inheritance;
 
 public class Teacher {
 
