@@ -8,8 +8,8 @@ public class MathTeacher extends  Teacher{
 
         MathTeacher teach = new MathTeacher();
 
-        System.out.println(teach.designation);
-        System.out.println(teach.college);
+        System.out.println(teach.getDesignation());
+        System.out.println(teach.getCollege());
         System.out.println(teach.mainSubject);
 
         teach.does();
