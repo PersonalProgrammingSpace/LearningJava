@@ -12,6 +12,8 @@ public abstract class Animal {
 
     //Now suppose we have two Animal classes Dog and Lion that extends Animal class.
     // We can provide the implementation detail there.
+
+    //RUNTIME Polymorphism
     public class Lion extends Animal{
 
         @Override
