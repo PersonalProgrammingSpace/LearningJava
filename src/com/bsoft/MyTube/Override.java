@@ -1,4 +1,4 @@
-package com.mytube;
+package com.bsoft.MyTube;
 
 public @interface Override {
 }

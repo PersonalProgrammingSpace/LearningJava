@@ -1,7 +1,7 @@
-package com.mytube;
+package com.bsoft.MyTube;
 
 public class XVideoEncoder implements VideoEncoder {
-    @Override
+    @java.lang.Override
     public void encode(Video video) {
         System.out.println("Encoding video...");
         System.out.println("Done!\n");

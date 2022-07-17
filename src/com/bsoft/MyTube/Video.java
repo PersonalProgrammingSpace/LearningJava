@@ -1,4 +1,4 @@
-package com.mytube;
+package com.bsoft.MyTube;
 
 public class Video {
     private String fileName;

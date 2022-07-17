@@ -1,4 +1,4 @@
-package com.mytube;
+package com.bsoft.MyTube;
 
 public class User {
     private String email;

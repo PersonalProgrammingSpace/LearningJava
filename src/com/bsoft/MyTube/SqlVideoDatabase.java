@@ -1,8 +1,8 @@
-package com.mytube;
+package com.bsoft.MyTube;
 
 
 public class SqlVideoDatabase implements VideoDatabase {
-    @Override
+    @java.lang.Override
     public void store(Video video) {
         System.out.println("Storing video metadata in a SQL database...");
         System.out.println("Title: " + video.getTitle());
