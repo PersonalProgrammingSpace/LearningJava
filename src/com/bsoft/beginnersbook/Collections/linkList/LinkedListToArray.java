@@ -2,6 +2,7 @@ package com.bsoft.beginnersbook.Collections.linkList;
 
 import java.util.LinkedList;
 
+//How To convert LinkedList to array using toArray().
 public class LinkedListToArray {
 
     public static void main(String[] args) {
