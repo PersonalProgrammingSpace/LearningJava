@@ -35,7 +35,7 @@ public class HashMapExample {
 
         /* Remove values based on key */
         hmap.remove(72);
-        System.out.println("Map key and values after rmoval: ");
+        System.out.println("Map key and values after removal: ");
         Set set1 = hmap.entrySet();
         Iterator iterator1 = set1.iterator();
         while (iterator1.hasNext()){
